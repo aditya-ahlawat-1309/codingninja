@@ -1,0 +1,46 @@
+body {
+  background-color: rgb(32, 28, 32);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10%;
+}
+
+.outer-div {
+  border: none;
+  background-color: rgb(170, 238, 12);
+  height: 350px;
+  width: 400px;
+}
+
+.header {
+  text-align: center;
+  font-size: 25px;
+
+}
+
+.label-field {
+  margin-left: 30px;
+
+  font-family: sans-serif;
+}
+
+.input-field {
+  padding: 7.5px;
+  margin-left: 30px;
+  margin-bottom: 20px;
+  width: 82%;
+  border: none;
+}
+
+.button-div {
+  text-align: center;
+}
+
+.submit-button {
+  border:none;
+  background-color: rgb(99, 202, 30);
+  color: rgb(245, 245, 239);
+  font-weight: bolder;
+  padding: 10px;
+}
